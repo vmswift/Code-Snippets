@@ -1,2 +1,2 @@
 # Code-Snippets
-Examples of Series and Fibonacci in various languages
+Examples of the Fibonacci series in various languages found in Fibonacci folder
